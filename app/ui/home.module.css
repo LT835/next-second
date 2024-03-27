@@ -1,0 +1,8 @@
+/* 自定义css文件，moudle.css文件中的就不会运用到全局中，不会因为css类名产生冲突 */
+.shape {
+    height: 0;
+    width: 0;
+    border-bottom: 30px solid black;
+    border-left: 20px solid transparent;
+    border-right: 20px solid transparent;
+  }

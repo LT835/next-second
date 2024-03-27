@@ -1,6 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+/* tailwind 包含很多可以直接使用的css代码 */
 
 input[type='number'] {
   -moz-appearance: textfield;
